@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings":[
+    {"name":"object","order":5,"path":"folders/object.yy",},
+    {"name":"sprite","order":4,"path":"folders/sprite.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oCoral","order":1,"path":"objects/oCoral/oCoral.yy",},
+    {"name":"oFishinghook","order":2,"path":"objects/oFishinghook/oFishinghook.yy",},
+    {"name":"oSolid","order":4,"path":"objects/oSolid/oSolid.yy",},
+    {"name":"oWatertile","order":3,"path":"objects/oWatertile/oWatertile.yy",},
+    {"name":"sCoral","order":1,"path":"sprites/sCoral/sCoral.yy",},
+    {"name":"sFishinghook","order":3,"path":"sprites/sFishinghook/sFishinghook.yy",},
+    {"name":"sWatertile","order":2,"path":"sprites/sWatertile/sWatertile.yy",},
+  ],
+}
